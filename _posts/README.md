@@ -1,2 +1,2 @@
 # Team EAAR
-Hello World
+Hello World.
